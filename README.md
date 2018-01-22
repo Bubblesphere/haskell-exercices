@@ -6,12 +6,13 @@
 ## Running an exercice
 ```
 > ghci
-> :load [filepath]
+> :l [filepath]
 ```
 
 ## Table of content
 | Description | Path |
 | ----------- | ----:|
-| Largest common divider | ./number-1.hs/**lcd** |
-| largest common divider w/ arguments | ./number-1.hs/**lcdWithArguments** |
-| return all pairs of two elements with a sum of n | ./number-1.hs/**pairsReturningN** |
+| FInd the Largest common divider | ./number-1.hs/**lcd** |
+| Find the largest common divider w/ arguments | ./number-1.hs/**lcdWithArguments** |
+| Find all pairs of two elements with a sum of n | ./number-1.hs/**pairsReturningN** |
+| Find all factors of n | ./number-2.hs/**factors** |
