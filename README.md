@@ -18,3 +18,5 @@
 | Find all factors of n | ./number-2.hs/**factors** |
 | Determine whether n is prime. If not, return the factors | ./number-2.hs/**isprime** |
 | Determine the amount of negative numbers in an array | ./number-2.hs/**amountNegative** |
+| Replicate a char x times into a string | ./number-3.hs/**replicateChar** |
+| Apply a callback function to each tuples of an array passed as parameter | ./number-3.hs/**mapTuplesToCallback** |
