@@ -21,3 +21,5 @@
 | Replicate a char x times into a string | ./number-3.hs/**replicateChar** |
 | Apply a callback function to each tuples of an array passed as parameter | ./number-3.hs/**mapTuplesToCallback** |
 | Verify if the two sorted list passed in parameter have an element in common | ./number-3.hs/**disjoint** |
+| Manually implement the map function | ./number-4.hs/**customMap** |
+| Using the previously created map function and a lambda, capitalize the first letter of each item within the array | ./number-4.hs/**capitalizeArray** |
