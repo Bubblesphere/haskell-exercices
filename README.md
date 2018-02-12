@@ -23,3 +23,6 @@
 | Verify if the two sorted list passed in parameter have an element in common | 3.hs/**disjoint** |
 | Manually implement the map function | 4.hs/**customMap** |
 | Using the previously created map function and a lambda, capitalize the first letter of each item within the array | 4.hs/**capitalizeArray** |
+| Implement the zip function for two arrays | 5.hs/**zipWith'** |
+| Checks whether every element of an array matches a condition | 5.hs/**all'** |
+| Checks whether at least one element of an array matches a condition | 5.hs/**any'** |
