@@ -26,3 +26,5 @@
 | Implement the zip function for two arrays | 5.hs/**zipWith'** |
 | Checks whether every element of an array matches a condition | 5.hs/**all'** |
 | Checks whether at least one element of an array matches a condition | 5.hs/**any'** |
+| Return the elements of the array that matches the condition | 5.hs/**takeWhile'** |
+| Return the elements of the array that don't match the condition | 5.hs/**dropWhile'** |
