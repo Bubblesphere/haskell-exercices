@@ -28,3 +28,11 @@
 | Checks whether at least one element of an array matches a condition | 5.hs/**any'** |
 | Return the elements of the array that matches the condition | 5.hs/**takeWhile'** |
 | Return the elements of the array that don't match the condition | 5.hs/**dropWhile'** |
+| Write a function that removes every instance of a value within an array | 6.hs/**remove** |
+| Write a function that returns distincts elements in an array | 6.hs/**makeSet** |
+| Reduce ((λx.λy.(yx)λp.λq.p)λi.i) | 6.hs |
+| Reduce ((λf.λa.(fa)a)b) | 6.hs |
+| Reduce (((λx.λy.λz.((xy)z)λf.λa(fa))λi.i)λj.j | 6.hs |
+| Reduce λg.((gλh.(h(gλh.(hλg.(hg)))))g) | 6.hs |
+| Which Gs are free | 6.hs |
+
